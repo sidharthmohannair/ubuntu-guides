@@ -5,5 +5,5 @@ Welcome to the Ubuntu Guides repository. Here you will find a collection of tuto
 ## Categories
 
 ### LightDM Guides
-- [Full Auto-Login Configuration](lightdm-guides/full-auto-login-lightdm.mdfull-auto-login-lightdm.md)
+- [Full Auto-Login Configuration](lightdm-guides/full-auto-login-lightdm.md)
 
