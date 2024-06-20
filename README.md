@@ -4,6 +4,11 @@ Welcome to the Ubuntu Guides repository. Here, you will find a comprehensive col
 
 ## Categories
 
+### Basic Commands
+- [Ubuntu Basic Commands](basic-commands/ubuntu-basic-commands.md)
+  - A list of essential commands for navigating and managing Ubuntu systems. This guide covers fundamental commands for file management, system information, process management, networking, and package management.
+
+
 ### LightDM Guides
 - [Full Auto-Login Configuration](lightdm-guides/full-auto-login.md)
   - This guide provides detailed steps to enable full auto-login for LightDM, ensuring that the system bypasses the login screen and logs in automatically to the XFCE desktop environment.
