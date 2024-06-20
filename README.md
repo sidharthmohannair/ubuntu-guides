@@ -9,7 +9,7 @@ Welcome to the Ubuntu Guides repository. Here, you will find a comprehensive col
   - This guide provides detailed steps to enable full auto-login for LightDM, ensuring that the system bypasses the login screen and logs in automatically to the XFCE desktop environment.
 
 ### Networking Guides
-- [Sending Files Between Ubuntu Systems on the Same Network](networking-guides/sending-files-between-ubuntu-systems.md)
+- [Sending Files Between Ubuntu Systems on the Same Network](https://github.com/sidharthmohannair/Sending-Files-Between-Ubuntu-Systems-on-the-Same-Network)
   - Learn how to send files between Ubuntu systems on the same network, facilitating easy and efficient file sharing.
 
  <!--
